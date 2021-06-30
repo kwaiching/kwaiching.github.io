@@ -13,13 +13,15 @@ For more details contact me.
 ### Support or Contact
 
 ****
-|作者|kwaiching|
+|Contact|ID|
 |---|---
 |Discord|[3000xposed](https://discord.gg/qrg5yRuEU8)
 |Facebook/Twitter|Heung Kwai Ching
 |Instagram/Tumblr|kwaiching
 |QQ|1427300335
 |Telegram ChatRoom|[kwaichingxposed](https://t.me/kwaichingxposed)
-|WeChat|CinelerraGG, cinelerra, ubuntustudio
+|WeChat|CinelerraGG
+||cinelerra
+||ubuntustudio
 
 ****
