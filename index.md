@@ -13,6 +13,7 @@ For more details contact me.
 ### Support or Contact
 
 ****
+|作者|kwaiching|
 |---|---
 |Discord|[3000xposed](https://discord.gg/qrg5yRuEU8)
 |Facebook/Twitter|Heung Kwai Ching
