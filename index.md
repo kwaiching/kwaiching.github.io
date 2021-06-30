@@ -6,7 +6,7 @@
 
 Android software reversing engineer and developer.
 
-Check out .[CTDisk].(https://u062.com/dir/16731109-40183208-b34aae) archive, .[90Disk].(https://www.90pan.com/o137885) archive, and .[GZDisk].(https://www.gueizu.com/space_kwaiching.html) archive.
+Check out [CTDisk](https://u062.com/dir/16731109-40183208-b34aae) archive, [90Disk](https://www.90pan.com/o137885) archive, and [GZDisk](https://www.gueizu.com/space_kwaiching.html) archive.
 
 ```markdown
 mov eax, 1
@@ -16,7 +16,7 @@ mov eax, 1
 ### kc
 
 - Reversing engineer
-- Android develop
+- Android developer
 
 ```
 
