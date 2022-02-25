@@ -1,12 +1,10 @@
 ## kwaiching
 
-...
-
 ### About Me
 
-Android software reversing engineer and developer, author of [3000xposed](https://repo.xposed.info/module/cn.kwaiching.hook) and [DJkwaiching](https://repo.xposed.info/module/vn.kwaiching.dj).
+Android software reversing engineer and developer, author of [3000xposed](https://repo.xposed.info/module/cn.kwaiching.hook),  [anantaryamarga](https://repo.xposed.info/module/vn.kwaiching.anantaryamarga) and [DJkwaiching](https://repo.xposed.info/module/vn.kwaiching.dj).
 
-Check out [CTDisk](https://u062.com/dir/16731109-40183208-b34aae) archive, [90Disk](https://www.90pan.com/o137885) archive, and [GZDisk](https://www.gueizu.com/space_kwaiching.html) archive.
+Check out [CTDisk](https://u062.com/d/16731109-40183208-4b8931) archive(password:9214), [StarsDisk](http://www.starsdisk.com/space_kwaiching.html) archive, and [GZDisk](https://kwaiching.dudujb.com) archive.
 
 For more details contact me.
 
